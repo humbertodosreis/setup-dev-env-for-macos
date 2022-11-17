@@ -27,3 +27,5 @@ echo 'alias cat='bat'' >> ~/.zprofile
 sudo xattr -dr com.apple.quarantine /Applications/Podman\ Desktop.app
 sudo xattr -dr com.apple.quarantine /Applications/Insomnia.app
 sudo xattr -dr com.apple.quarantine /Applications/Beekeeper\ Studio.app
+sudo xattr -dr com.apple.quarantine /Applications/RedisInsight.app
+sudo xattr -dr com.apple.quarantine /Applications/MongoDB\ Compass.app
