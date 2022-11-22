@@ -76,6 +76,7 @@ FPATH="$(brew --prefix)/share/zsh/site-functions:${FPATH}"
 plugins=(
   git
   asdf
+  poetry
 #  zsh-completions
 #  zsh-autosuggestions
 #  zsh-syntax-highlighting
