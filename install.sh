@@ -29,3 +29,5 @@ sudo xattr -dr com.apple.quarantine /Applications/Insomnia.app
 sudo xattr -dr com.apple.quarantine /Applications/Beekeeper\ Studio.app
 sudo xattr -dr com.apple.quarantine /Applications/RedisInsight.app
 sudo xattr -dr com.apple.quarantine /Applications/MongoDB\ Compass.app
+sduo xattr -r -d com.apple.quarantine /Applications/DBeaver.app
+sudo xattr -r -d com.apple.quarantine /Applications/Iterm.app
