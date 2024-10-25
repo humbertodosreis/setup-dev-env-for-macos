@@ -4,6 +4,16 @@
 ./install.sh
 ```
 
+## Configure nerdfont
+
+- install getnf
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/getnf/getnf/main/install.sh | bash
+```
+
+- Run getnf to install a nerdfont
+
 
 ## references
 
